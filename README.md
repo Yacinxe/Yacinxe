@@ -1,16 +1,87 @@
-## Hi there 👋
+<h1 align="center">Yacine Hadioui </h1>
 
-<!--
-**Yacinxe/Yacinxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>3rd-Year Double BSc in Mathematics & Computer Science</strong> · Sorbonne Paris Nord<br>
+  🔍 Seeking a <b>work-study position (alternance)</b> in <b>Data Science / AI / Finance</b><br>
+  🇸🇪 Currently on Erasmus+ at <b>Mälardalens University, Sweden</b> (Jan–Jun 2026)
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://Yacinxe.github.io"><img src="https://img.shields.io/badge/Portfolio-Yacinxe.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
+  <a href="https://linkedin.com/in/yacine-hadioui"><img src="https://img.shields.io/badge/LinkedIn-Yacine_Hadioui-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:yacinadioui@gmail.com"><img src="https://img.shields.io/badge/Email-yacinadioui@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏆 Achievements
+
+| | |
+|---|---|
+| 🥉 **Top 3 / 400+** | **Hi! Paris Hackathon 2026** — PISA Data Challenge (Polytechnique × HEC Paris) |
+| 🎓 **Double BSc** | Mathematics & Computer Science — Sorbonne Paris Nord (2022–2026) |
+| 🇸🇪 **Erasmus+** | AI, Cloud Computing, Statistical Inference — Mälardalens University, Sweden |
+
+## 📜 Certifications
+
+**deeplearning.ai**
+- Deep Learning Specialization (4/5 courses)
+- Machine Learning Specialization
+- Mathematics for ML & Data Science
+
+**Kaggle**
+- Intro to Machine Learning · Intermediate Machine Learning
+- Intro to Deep Learning · Intro to SQL
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=flat-square&logo=ocaml&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**ML & Data Science**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat-square&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logo=lightgbm&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=plotly&logoColor=white)
+
+**Tools & Infrastructure**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apache-hadoop&logoColor=black)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yacinxe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yacinxe&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Hi! Paris Hackathon 2026**](https://github.com/Yacinxe/hiparis-hackathon) | PISA Data Challenge — Top 3/400+ · ML ensemble on 1.7M students · R²≈0.77 | XGBoost, LightGBM, Optuna |
+| [**IoT Pipeline**](https://github.com/Yacinxe/iot-pipeline) | End-to-end sensor data aggregation & analysis system | Flask, SQLite, Hadoop, Docker |
+| [**Matrix Optimization**](https://github.com/Yacinxe/matrix-optimization) | Algorithm benchmarking & complexity analysis | C, Python, Matplotlib |
+| [**Snake Game**](https://github.com/Yacinxe/snake-game) | Optimized implementation with modular architecture | C |
+
+---
+
+<p align="center">
+  <i>Open to opportunities in Data Science, AI & Quantitative Finance — let's connect!</i>
+</p>
