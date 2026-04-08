@@ -26,7 +26,7 @@
 |---|---|
 | 🥉 **Top 3 / 400+** | **Hi! Paris Hackathon 2026** — PISA Data Challenge (Polytechnique × HEC Paris) |
 | 🎓 **Double BSc** | Mathematics & Computer Science — Sorbonne Paris Nord (2022–2026) |
-| 🇸🇪 **Erasmus+** | AI, Cloud Computing, Statistical Inference — Mälardalens University, Sweden |
+| 🇸🇪 **Erasmus+** | AI, Cloud Computing, Methods of Statistical Inference, Computer algebra with applications — Mälardalens University, Sweden |
 
 ## 📜 Certifications
 
