@@ -1,9 +1,9 @@
 <h1 align="center">Yacine Hadioui </h1>
 
 <p align="center">
-  <strong>3rd-Year Double BSc in Mathematics & Computer Science</strong> · Sorbonne Paris Nord<br>
-  🔍 Seeking a <b>work-study position (alternance)</b> in <b>Data Science / AI / Finance</b><br>
-  🇸🇪 Currently on Erasmus+ at <b>Mälardalens University, Sweden</b> (Jan–Jun 2026)
+ <strong>Étudiant en 3ᵉ année de double licence Mathématiques & Informatique</strong> · Sorbonne Paris Nord<br>
+  🔍 À la recherche d’une <b>alternance</b> en <b>Data Science / Intelligence Artificielle / Finance</b><br>
+  🇸🇪 Actuellement en programme Erasmus+ à <b>Mälardalens University, Suède</b> (janv.–juin 2026)
 </p>
 
 <p align="center">
