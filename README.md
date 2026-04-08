@@ -7,9 +7,15 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Portfolio-Yacinxe.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
-  <a href="https://linkedin.com/in/yacine-hadioui"><img src="https://img.shields.io/badge/LinkedIn-Yacine_Hadioui-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:yacinadioui@gmail.com"><img src="https://img.shields.io/badge/Email-yacinadioui@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://yacinxe.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-Yacinxe-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/yacine-hadioui">
+    <img src="https://img.shields.io/badge/LinkedIn-Yacine_Hadioui-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:yacinadioui@gmail.com">
+    <img src="https://img.shields.io/badge/Email-yacinadioui@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
