@@ -77,8 +77,9 @@
 |---------|-------------|------|
 | [**Hi! Paris Hackathon 2026**](https://github.com/Yacinxe/hiparis-hackathon) | PISA Data Challenge — Top 3/400+ · ML ensemble on 1.7M students · R²≈0.77 | XGBoost, LightGBM, Optuna |
 | [**IoT Pipeline**](https://github.com/Yacinxe/iot-pipeline) | End-to-end sensor data aggregation & analysis system | Flask, SQLite, Hadoop, Docker |
-| [**Matrix Optimization**](https://github.com/Yacinxe/matrix-optimization) | Algorithm benchmarking & complexity analysis | C, Python, Matplotlib |
+| [**Matrix Optimization**](https://github.com/Yacinxe/matrix-optimization) | Algorithm benchmarking & complexity analysis | C |
 | [**Snake Game**](https://github.com/Yacinxe/snake-game) | Optimized implementation with modular architecture | C |
+| [**Freescord**](https://github.com/Yacinxe/freescord) | Client-server messaging system with TCP sockets & multithreading | C |
 
 ---
 
