@@ -88,5 +88,5 @@
 ---
 
 <p align="center">
-  <i>Open to opportunities in Data Science, AI & Quantitative Finance — let's connect!</i>
+  <i>Open to opportunities in Data Science, AI & Machine Learning — let's connect!</i>
 </p>
