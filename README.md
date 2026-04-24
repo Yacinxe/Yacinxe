@@ -2,7 +2,7 @@
 
 <p align="center">
  <strong>Étudiant en 3ᵉ année de double licence Mathématiques & Informatique</strong> · Sorbonne Paris Nord<br>
-  🔍 À la recherche d’une <b>alternance</b> en <b>Data Science / Intelligence Artificielle / Finance</b><br>
+  🔍 À la recherche d’une <b>alternance</b> en <b>Data Science / Intelligence Artificielle / Machine Learning</b><br>
   🇸🇪 Actuellement en programme Erasmus+ à <b>Mälardalens University, Suède</b> (janv.–juin 2026)
 </p>
 
